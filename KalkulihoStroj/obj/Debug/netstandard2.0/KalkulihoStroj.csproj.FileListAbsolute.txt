@@ -1,0 +1,14 @@
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\bin\Debug\netstandard2.0\KalkulihoStroj.deps.json
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\bin\Debug\netstandard2.0\KalkulihoStroj.dll
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\bin\Debug\netstandard2.0\ref\KalkulihoStroj.dll
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\bin\Debug\netstandard2.0\KalkulihoStroj.pdb
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\KalkulihoStroj.csprojAssemblyReference.cache
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\KalkulihoStroj.AssemblyInfoInputs.cache
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\KalkulihoStroj.AssemblyInfo.cs
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\KalkulihoStroj.csproj.CoreCompileInputs.cache
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\KalkulihoStroj.dll
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\ref\KalkulihoStroj.dll
+C:\Users\kubah\source\repos\KalkulihoStroj\KalkulihoStroj\KalkulihoStroj\obj\Debug\netstandard2.0\KalkulihoStroj.pdb
